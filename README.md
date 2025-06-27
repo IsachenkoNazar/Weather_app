@@ -19,40 +19,74 @@ All modules
 
 - [customtkinter](https://customtkinter.tomschimansky.com/)
 - [json](https://docs.python.org/3/library/json.html)
-- [requests]()
-- [pillow]()
-- [os]()
-- [colorama]()
-- [datetime]()
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [pillow](https://pillow.readthedocs.io/en/stable/)
+- [os](https://docs.python.org/3/library/os.html)
+- [colorama](https://pypi.org/project/colorama/)
+- [datetime](https://docs.python.org/3/library/datetime.html)
 ___
 <h4 id= 'download-project'>Розгортання проєкту:</h4>
 Download project
 
 1. Склонувати з Git Hub репозиторію
-    - опис та зображення (або gif анімація)
+    ![1_task.png](images/1.png)
+
+    - натиснути на кнопку "Code"
+    - скопіювати проєкт
 
 2. Завантажити за допомогою zip-архіву
-    - опис та зображення (або gif анімація)
+    ![2_task.png](images/2.png)
+    
+    - треба знову натиснути "Code"
+    - та завантажити через zip-архів
 ___
 <h4 id= 'create-venv'>Створення віртуального оточення проєкту:</h4>
 Сreate venv
 
 1. Windows
-    - опис та зображення (або gif анімація)
+   
+   ![3_task.png](images/3.png)
+   
+    - для цього потрібно прописати команду яка на зображенні
+    - друге venv - назва нашого оточення
+    
+    ![4_task.png](images/4.png)
+
+    -команда для активації віртуального оточення
 
 2. Mac OS або Linux
-    - опис та зображення (або gif анімація)
+   
+   ![3_task.png](images/3.png)
+   - для створення на Mac OS використовується таж команда
+
+   ![5_task.png](images/5.1.png)
+
+    - команда для активації віртуального оточення
+    але замість Scripts пишемо bin
+   
 ___
 <h4 id= 'download-modules-venv'>Завантаження модулів до віртуального оточення:</h4>
 Download modules venv
 
 1. Окремими модулями
-    - опис та зображення (або gif анімація)
+    
+    ![6_task.png](images/6.png)
+ 
+    - Потрібно прописати pip install та назву модуля який потрібно завантажити
+
+
 2. За допомогою файлу requirements.txt
-    - опис та зображення (або gif анімація)
+    
+    ![7_task.png](images/7.png)
+   
+    - завантажити за допомогою requirements
 ___
 <h4 id= 'start-project'>Старт проєкту:</h4>
 Start project
 
 зробіть опис через команду python main.py
 
+    - потрібно прописати у терміналі  python та назву файлу який потрібно запустити
+ 
+
+ 
